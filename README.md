@@ -1,0 +1,1 @@
+# Calculul-unui-index-inversat-folosind-paradigma-map-reduce
